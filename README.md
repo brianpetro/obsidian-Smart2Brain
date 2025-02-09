@@ -86,7 +86,6 @@ The queries are sent to the cloud only if you choose to use OpenAI's models. You
 Our plugin is quite similar to Smart Connections. However, we improve it based on our experience and the research we do for the university.
     
 For now, these are the main differences:
-- We are completely open-source
 - We support Ollama/local models without needing a license
 - We place more value on UI/UX
 - We use a different tech stack leveraging Langchain and Orama as our vector store
